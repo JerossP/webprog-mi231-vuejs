@@ -3,7 +3,7 @@
    data() {
     return {
      message: "Hello World!",
-     vueClass: "PinkBG"
+     vueClass: "pinkBG"
     }
    }
   })
