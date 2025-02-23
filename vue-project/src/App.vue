@@ -5,7 +5,7 @@
   <food-item/>
   <food-item2/>
   <food-item/>
-  <rest-API></rest-API>
+  <rest-api/>
   <comment-form/>
   <comment/>
 </template>
